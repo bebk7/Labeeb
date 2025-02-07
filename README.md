@@ -1,22 +1,61 @@
-# 👋 Hey You, I'm Labeeb! 
+<h1 align="center">👋 Hey You, I'm Labeeb!</h1>
 
-💻 Passionate about Flutter development  
-🤝 Open to collaborating on open-source mobile apps  
-🔍 Always eager to learn and explore new technologies  
-🚀 Seeking opportunities in mobile app development  
+<p align="center">
+  💻 Passionate about Flutter development <br>
+  🤝 Open to collaborating on open-source mobile apps <br>
+  🔍 Always eager to learn and explore new technologies <br>
+  🚀 Seeking opportunities in mobile app development <br>
+</p>
+
+---
 
 ## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18CnJFgNAc/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beb_k7?igsh=a2JpdGEyc2VzZG9y)  
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beb_k7)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labeeb.kaleessi@gmail.com)  
+<p align="center">
+  <a href="https://www.facebook.com/share/18CnJFgNAc/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&borderRadius=50">
+  </a>
+  <a href="https://www.instagram.com/beb_k7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=50">
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&borderRadius=50">
+  </a>
+  <a href="https://t.me/beb_k7">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=50">
+  </a>
+  <a href="mailto:labeeb.kaleessi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50">
+  </a>
+</p>
+
+---
 
 ## 🛠 Tech Stack:
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&borderRadius=50">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&borderRadius=50">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&borderRadius=50">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&borderRadius=50">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&borderRadius=50">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=50">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=50">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&borderRadius=50">
+</p>
+
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LabeebK&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+## 🎉 Fun Fact:
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200">
+</p>
+
+---
+
+<p align="center">🔥 Built with ❤️ using Markdown and HTML 🔥</p>
