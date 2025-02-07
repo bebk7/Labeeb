@@ -17,9 +17,7 @@
   <a href="https://www.instagram.com/beb_k7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=50">
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&borderRadius=50">
-  </a>
+ 
   <a href="https://t.me/beb_k7">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=50">
   </a>
